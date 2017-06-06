@@ -1,1 +1,3 @@
-
+Anaconda for Python version 2.7
+pycrfsuit
+spacy -> https://spacy.io/
