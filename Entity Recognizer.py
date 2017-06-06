@@ -2,6 +2,7 @@ import pycrfsuite
 import shutil,io
 import spacy
 from data import getData
+from words_to_feature import sent2features,sent2labels
 #import Span
 nlp = spacy.load('en')
 
